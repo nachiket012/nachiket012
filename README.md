@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachiket012&show_icons=true&locale=en&layout=normal" alt="nachiket012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket012&show_icons=true&locale=en" alt="nachiket012" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket012&show_icons=true&count_private=true&hide=stars,prs&theme=react&include_all_commits=true" alt="nachiket012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachiket012&" alt="nachiket012" /></p>
 
